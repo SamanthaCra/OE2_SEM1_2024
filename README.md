@@ -1,2 +1,2 @@
-# OE2_SEM1_2024
-Operations Engineering 2 Semeser 1 2024
+# OE2 SEM1 2024
+Operations Engineering 2 Semester 1 2024
